@@ -1,3 +1,5 @@
 java
 forward-merge
 master-update
+three-way merge test
+
