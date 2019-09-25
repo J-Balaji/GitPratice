@@ -1,2 +1,4 @@
 java
 forward-merge
+
+three-way merge test
